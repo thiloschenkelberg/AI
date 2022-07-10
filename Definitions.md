@@ -68,17 +68,17 @@ These random forest models generate a number of decision trees as specified by t
 
 ## Real-world machine learning use cases ##
 
-  -Speech recognition
+- Speech recognition
 
-  -Customer service
+- Customer service
 
-  -Computer vision
+- Computer vision
 
-  -Recommendation engines
+- Recommendation engines
 
-  -Automated stock trading
+- Automated stock trading
 
-  -Fraud detection
+- Fraud detection
 
 ## Machine Learning vs. Deep Learning vs. Neural Networks ##
 

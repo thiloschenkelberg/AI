@@ -20,21 +20,13 @@ The typical supervised machine learning algorithm consists of roughly three comp
 
 ## Types of Machine Learning ##
 
-#### Supervised learning #####
+- Supervised learning: The dataset being used has been pre-labeled and classified by users to allow the algorithm to see how accurate its performance is.
 
-The dataset being used has been pre-labeled and classified by users to allow the algorithm to see how accurate its performance is.
+- Unsupervised learning: The raw dataset being used is unlabeled and an algorithm identifies patterns and relationships within the data without help from users.
 
-#### Unsupervised learning ####
+- Semi-supervised learning: The dataset contains structured and unstructured data, which guides the algorithm on its way to making independent conclusions. The combination of the two data types in one training dataset allows machine learning algorithms to learn to label unlabeled data.
 
-The raw dataset being used is unlabeled and an algorithm identifies patterns and relationships within the data without help from users.
-
-#### Semi-supervised learning ####
-
-The dataset contains structured and unstructured data, which guides the algorithm on its way to making independent conclusions. The combination of the two data types in one training dataset allows machine learning algorithms to learn to label unlabeled data.
-
-#### Reinforcement learning ####
-
-The dataset uses a “rewards/punishments” system, offering feedback to the algorithm to learn from its own experiences by trial and error.
+- Reinforcement learning: The dataset uses a “rewards/punishments” system, offering feedback to the algorithm to learn from its own experiences by trial and error.
 
 ## Commonly Used Machine Learning Algorithms ##
 
@@ -102,11 +94,7 @@ Machine learning specifically refers to teaching devices to learn information gi
 
 ## Why Is Machine Learning Important ##
 
-#### Scale of data ####
+- Scale of data: Companies are faced with massive volumes and varieties of data that need to be processed.
 
-Companies are faced with massive volumes and varieties of data that need to be processed.
-
-#### Unexpected findings ####
-
-The iterative nature of learning is unique and valuable because it occurs without human intervention - in other words, machine learning algorithms can uncover hidden insights without being specifically programmed to do so.
+- Unexpected findings: The iterative nature of learning is unique and valuable because it occurs without human intervention - in other words, machine learning algorithms can uncover hidden insights without being specifically programmed to do so.
 

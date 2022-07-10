@@ -20,13 +20,21 @@ The typical supervised machine learning algorithm consists of roughly three comp
 
 ## Types of Machine Learning ##
 
--Supervised learning: The dataset being used has been pre-labeled and classified by users to allow the algorithm to see how accurate its performance is.
+#### Supervised learning #####
 
--Unsupervised learning: The raw dataset being used is unlabeled and an algorithm identifies patterns and relationships within the data without help from users.
+The dataset being used has been pre-labeled and classified by users to allow the algorithm to see how accurate its performance is.
 
--Semi-supervised learning: The dataset contains structured and unstructured data, which guides the algorithm on its way to making independent conclusions. The combination of the two data types in one training dataset allows machine learning algorithms to learn to label unlabeled data.
+#### Unsupervised learning ####
 
--Reinforcement learning: The dataset
+The raw dataset being used is unlabeled and an algorithm identifies patterns and relationships within the data without help from users.
+
+#### Semi-supervised learning ####
+
+The dataset contains structured and unstructured data, which guides the algorithm on its way to making independent conclusions. The combination of the two data types in one training dataset allows machine learning algorithms to learn to label unlabeled data.
+
+#### Reinforcement learning ####
+
+The dataset uses a “rewards/punishments” system, offering feedback to the algorithm to learn from its own experiences by trial and error.
 
 ## Commonly Used Machine Learning Algorithms ##
 
@@ -60,17 +68,17 @@ These random forest models generate a number of decision trees as specified by t
 
 ## Real-world machine learning use cases ##
 
--Speech recognition
+  -Speech recognition
 
--Customer service
+  -Customer service
 
--Computer vision
+  -Computer vision
 
--Recommendation engines
+  -Recommendation engines
 
--Automated stock trading
+  -Automated stock trading
 
--Fraud detection
+  -Fraud detection
 
 ## Machine Learning vs. Deep Learning vs. Neural Networks ##
 

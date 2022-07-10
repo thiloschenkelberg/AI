@@ -12,21 +12,21 @@ The basic concept of machine learning in data science involves using statistical
 
 The typical supervised machine learning algorithm consists of roughly three components:
 
-    1. A decision process: A recipe of calculations or other steps that takes in the data and "guesses" what kind of pattern your algorithm is looking to find.
+1. A decision process: A recipe of calculations or other steps that takes in the data and "guesses" what kind of pattern your algorithm is looking to find.
 
-    2. An error function: A method of measuring how good the guess was by comparing it to known examples (when they are available). Did the decision process get it right? If not, how do you quantify "how bad" the miss was?
+2. An error function: A method of measuring how good the guess was by comparing it to known examples (when they are available). Did the decision process get it right? If not, how do you quantify "how bad" the miss was?
 
-    3. An updating or optimization process: A method in which the algorithm looks at the miss and then updates how the decision process comes to the final decision, so next time the miss won't be as great.
+3. An updating or optimization process: A method in which the algorithm looks at the miss and then updates how the decision process comes to the final decision, so next time the miss won't be as great.
 
 ## Types of Machine Learning ##
 
-    -Supervised learning: The dataset being used has been pre-labeled and classified by users to allow the algorithm to see how accurate its performance is.
+-Supervised learning: The dataset being used has been pre-labeled and classified by users to allow the algorithm to see how accurate its performance is.
 
-    -Unsupervised learning: The raw dataset being used is unlabeled and an algorithm identifies patterns and relationships within the data without help from users.
+-Unsupervised learning: The raw dataset being used is unlabeled and an algorithm identifies patterns and relationships within the data without help from users.
 
-    -Semi-supervised learning: The dataset contains structured and unstructured data, which guides the algorithm on its way to making independent conclusions. The combination of the two data types in one training dataset allows machine learning algorithms to learn to label unlabeled data.
+-Semi-supervised learning: The dataset contains structured and unstructured data, which guides the algorithm on its way to making independent conclusions. The combination of the two data types in one training dataset allows machine learning algorithms to learn to label unlabeled data.
 
-    -Reinforcement learning: The dataset
+-Reinforcement learning: The dataset
 
 ## Commonly Used Machine Learning Algorithms ##
 
@@ -60,17 +60,17 @@ These random forest models generate a number of decision trees as specified by t
 
 ## Real-world machine learning use cases ##
 
-    -Speech recognition
+-Speech recognition
 
-    -Customer service
+-Customer service
 
-    -Computer vision
+-Computer vision
 
-    -Recommendation engines
+-Recommendation engines
 
-    -Automated stock trading
+-Automated stock trading
 
-    -Fraud detection
+-Fraud detection
 
 ## Machine Learning vs. Deep Learning vs. Neural Networks ##
 
@@ -94,7 +94,7 @@ Machine learning specifically refers to teaching devices to learn information gi
 
 ## Why Is Machine Learning Important ##
 
-    -Scale of data: Companies are faced with massive volumes and varieties of data that need to be processed.
+-Scale of data: Companies are faced with massive volumes and varieties of data that need to be processed.
 
-    -Unexpected findings: The iterative nature of learning is unique and valuable because it occurs without human intervention - in other words, machine learning algorithms can uncover hidden insights without being specifically programmed to do so.
+-Unexpected findings: The iterative nature of learning is unique and valuable because it occurs without human intervention - in other words, machine learning algorithms can uncover hidden insights without being specifically programmed to do so.
 

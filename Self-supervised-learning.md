@@ -8,9 +8,9 @@ A working hypothesis is that generalized knowledge about the world, or common se
 
 We believe that self-supervised learning (SSL) is one of the most promising ways to build such background knowledge and approximate a form of common sense in AI systems.
 
-  -Natural Language Processing (NLP), Collobert-Weston, Word2Vec, GloVe, fastText
+  - Natural Language Processing (NLP), Collobert-Weston, Word2Vec, GloVe, fastText
   
-  -BERT, RoBERTa, XLM-R
+  - BERT, RoBERTa, XLM-R
 
 Our latest research project SEER leverages SwAV and other methods to pretrain a large network on a billion random unlabeled images, yielding top accuracy on a diverse set of vision tasks. This progress demonstrates that self-supervised learning can excel at CV (ComputerVision) tasks in complex, real-world settings as well.
 

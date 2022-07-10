@@ -1,6 +1,6 @@
 https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/
 
-## Self-supervised learning: The dark matter of intelligence ##
+# Self-supervised learning: The dark matter of intelligence #
 
 Supervised learning is a bottleneck for building more intelligent generalist models that can do multiple tasks and acquire new skills without massive amounts of labeled data.
 

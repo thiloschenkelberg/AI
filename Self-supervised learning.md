@@ -8,8 +8,8 @@ A working hypothesis is that generalized knowledge about the world, or common se
 
 We believe that self-supervised learning (SSL) is one of the most promising ways to build such background knowledge and approximate a form of common sense in AI systems.
 
-    -Natural Language Processing (NLP), Collobert-Weston, Word2Vec, GloVe, fastText
-    -BERT, RoBERTa, XLM-R
+  -Natural Language Processing (NLP), Collobert-Weston, Word2Vec, GloVe, fastText
+  -BERT, RoBERTa, XLM-R
 
 Our latest research project SEER leverages SwAV and other methods to pretrain a large network on a billion random unlabeled images, yielding top accuracy on a diverse set of vision tasks. This progress demonstrates that self-supervised learning can excel at CV (ComputerVision) tasks in complex, real-world settings as well.
 
@@ -41,9 +41,9 @@ An EBM (energy-based model) is a trainable system that, given two inputs, x and 
 
 Training an EBM consists of two parts:
 
-    (1) showing examples of x and y that are compatible and training it to produce a low energy
+1. Showing examples of x and y that are compatible and training it to produce a low energy.
 
-    (2) finding a way to ensure, that for a particular x, the y values that are incompatible with x produce a higher energy than the values that are compatible with x.
+2. Finding a way to ensure, that for a particular x, the y values that are incompatible with x produce a higher energy than the values that are compatible with x.
 
 ### Joint embedding, Siamese networks ###
 

@@ -102,7 +102,11 @@ Machine learning specifically refers to teaching devices to learn information gi
 
 ## Why Is Machine Learning Important ##
 
--Scale of data: Companies are faced with massive volumes and varieties of data that need to be processed.
+#### Scale of data ####
 
--Unexpected findings: The iterative nature of learning is unique and valuable because it occurs without human intervention - in other words, machine learning algorithms can uncover hidden insights without being specifically programmed to do so.
+Companies are faced with massive volumes and varieties of data that need to be processed.
+
+#### Unexpected findings ####
+
+The iterative nature of learning is unique and valuable because it occurs without human intervention - in other words, machine learning algorithms can uncover hidden insights without being specifically programmed to do so.
 

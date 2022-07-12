@@ -1,1 +1,1 @@
-_All content is taken from sources mentioned at the top of each page!_
+_All content is taken from the sources mentioned at the top of each page!_

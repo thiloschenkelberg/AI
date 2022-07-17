@@ -1,5 +1,3 @@
-### AI ###
-
 Repository for potential bachelor project in computer science.
 
 Check the wiki for introductory information about AI topics.
